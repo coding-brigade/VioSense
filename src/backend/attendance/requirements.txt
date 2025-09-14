@@ -1,0 +1,7 @@
+backend==0.2.4.1
+datasets==3.5.1
+fastapi==0.115.13
+Pillow==11.2.1
+torch==2.6.0
+torchvision==0.21.0
+ultralytics==8.3.158
