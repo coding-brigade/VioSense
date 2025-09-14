@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attendance System</string>
+    <string name="overview">Overview</string>
+    <string name="attendance">Attendance</string>
+    <string name="upload_photos_of_students">Upload Photos of Students</string>
+    <string name="submit_text">Submit</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="image">image</string>
+    <string name="image_type">image/*</string>
+    <string name="jpg">.jpg</string>
+    <string name="jpeg">.jpeg</string>
+    <string name="png">.png</string>
+    <string name="heic">.heic</string>
+    <string name="error_invalid_photo_video_type">Invalid file format</string>
+    <string name="gif">.gif</string>
+    <string name="e_something_went_wrong">Something went wrong</string>
+    <string name="error">error</string>
+    <string name="no_student_recognized">No Student Recognized</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_student_information">Add Student Information</string>
+</resources>
