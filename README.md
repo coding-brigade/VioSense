@@ -303,7 +303,7 @@ Once independently trained, both models were integrated into the end-to-end surv
 | Sr. No. | Name                          | Role                  |
 |--------:|-------------------------------|------------------------|
 | 1       | Dhruvkumar Rakeshbhai Patel   | Team Leader           |
-| 2       | Kovil Hasmukhbhai Savaj       | Front End             |
+| 2       | Kovil Hasmukhbhai Savaj       | Front End / Machine learning |
 | 3       | Malani Prince Hiteshbhai      | Machine Learning      |
 | 4       | Patel Jay Ravindrakumar       | Backend               |
 | 5       | Krutika Vijaybhai Patel       | Database Management   |
